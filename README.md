@@ -60,7 +60,7 @@ This was my first project in Fusion, so I learned a lot along the way. Thankfull
 | [M5 hex nuts, stainless A2, 20 pack](https://www.hornbach.cz/p/matice-presna-m5-sestihranna-nerez-a2-20ks/8718281/) | 1 | Hornbach | $1.56 | $1.56 |
 | [Bison Super Glue Gel 2g](https://www.hornbach.cz/p/vterinove-lepidlo-bison-super-glue-gel-2-g/6065686/) | 1 | Hornbach | $2.08 | $2.08 |
 | [Polyester line 1mm, 50m](https://www.hornbach.cz/p/zednicky-provazek-haromac-delka-50m-cerveny/910338/) | 1 | Hornbach | $3.40 | $3.40 |
-| [Elegoo PLA grey, 1.75mm, 1kg](https://www.sunnysoft.cz/z/400PEO-060/elegoo-pla-1-75-1kg-seda.html) | 1 | Sunnysoft | $12.00 | $12.00 |
+| [Elegoo PLA 1kg White](https://www.alza.cz/elegoo-pla-1kg-bila-d7585011.htm) | 1 | Alza | $12.00 | $12.00 |
 | **Parts subtotal** | | | | **$26.27** |
 | Shipping (estimate) | | | | $3.00 |
 | **Total** | | | | **$29.27** |
