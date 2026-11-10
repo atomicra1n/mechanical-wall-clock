@@ -56,20 +56,20 @@ This was my first project in Fusion, so I learned a lot along the way. Thankfull
 |---|---|---|---|---|
 | [Alu round rod 6mm, 1m](https://www.hornbach.cz/p/alu-kruhovy-profil-6mm-1m/6369446/) | 1 | Hornbach | $2.50 | $2.50 |
 | [Zn threaded rod M5, 1m](https://www.hornbach.cz/p/tyc-zavitova-1m-m5-pevnost-4-8-zinek-bily-1ks/4279646/) | 1 | Hornbach | $0.80 | $0.80 |
-| [DIN 7985 cross-head M4x12 pan-head screws, 100 pack](https://www.hornbach.cz/p/sroub-s-cockovitou-hlavou-4-8-a-krizovou-drazkou-din-7985-m4x12-mm-galvanicky-pozinkovany-1-ks/3831265/) | 1 | Hornbach | $3.93 | $3.93 |
+| [DIN 7985 M4x12 pan-head screws, stainless A2, 10 pack](https://www.hornbach.cz/p/sroub-metricky-m4x12-ph-valcova-hlava-zakulacena-nerez-a2-10ks/8718241/) | 1 | Hornbach | $1.46 | $1.46 |
+| [DIN 965 M3x12 countersunk screws, stainless A2, 20 pack](https://www.hornbach.cz/p/sroub-metricky-m3x12-ph-zapustena-hlava-nerez-a2-20ks/8718214/) | 1 | Hornbach | $1.37 | $1.37 |
 | [M5 hex nuts, stainless A2, 20 pack](https://www.hornbach.cz/p/matice-presna-m5-sestihranna-nerez-a2-20ks/8718281/) | 1 | Hornbach | $1.56 | $1.56 |
 | [Bison Super Glue Gel 2g](https://www.hornbach.cz/p/vterinove-lepidlo-bison-super-glue-gel-2-g/6065686/) | 1 | Hornbach | $2.08 | $2.08 |
 | [Polyester line 1mm, 50m](https://www.hornbach.cz/p/zednicky-provazek-haromac-delka-50m-cerveny/910338/) | 1 | Hornbach | $3.40 | $3.40 |
+| [Hardened steel nails 2.0x30, lentil head, 100 pack](https://www.hornbach.cz/p/hrebik-ocelovy-2-0x30-cockova-hlava-bez-povrchove-upravy-100ks/8721257/) | 1 | Hornbach | $4.20 | $4.20 |
 | [Elegoo PLA 1kg White](https://www.alza.cz/elegoo-pla-1kg-bila-d7585011.htm) | 1 | Alza | $12.00 | $12.00 |
-| **Parts subtotal** | | | | **$26.27** |
-| Shipping (estimate) | | | | $3.00 |
-| **Total** | | | | **$29.27** |
+| **Parts subtotal** | | | | **$29.37** |
+| Shipping (estimate) | | | | $0.00 |
+| **Total** | | | | **$29.37** |
 
 Also required but not in the BOM as will be sourced separately (for free, or possibly already held by me):
-- 8x M3x10 DIN 965 screws for the plates
 - A bit of dry sand to fill the bob
 - A slim drive weight of 1-3kg. At most 4-5 cm wide, otherwise the bob could hit it when the weight drops too low. Consider a narrow tube filled with sand.
-- 2 wall screws with plugs (heads must be under 9 mm wide and shanks under 4.5 mm to fit)
 - Tools: a hacksaw, sandpaper or a file, and a cross-head screwdriver
 
 ## Printing
